@@ -1,5 +1,5 @@
 # Room Occupancy Estimation
-This dataset is related to room occupancy estimation. The goal is to estimate the precise number of occupants in a room using multiple non-intrusive environmental sensors like temperature, light, sound, CO2, and PIR.
+This dataset is related to room occupancy estimation. The goal is to estimate the precise number of occupants in a room using multiple non-intrusive environmental sensors like temperature, light, sound, CO2, and PIR. This was made as part of a project for an introductory Data Science Course. 
 
 The dataset comes from:
 https://archive.ics.uci.edu/dataset/864/room+occupancy+estimation
